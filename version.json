@@ -2,7 +2,7 @@
   "code":1,
   "message":"SUCCESS",
   "value":{
-    "androidVersion":40,
+    "androidVersion":42,
     "iosVersion":95,
     "androidDownloadURL":"https://172.30.1.131:8443/ngs/app_release/zhongzai.apk",
     "iosDownloadURL":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/crmcpcr/app/master/zhongzai.plist"
